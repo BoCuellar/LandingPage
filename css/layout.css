@@ -9,12 +9,19 @@
     background-color: var(--colorFondo);
 }
 
+main, footer{
+    widht: calc(var(--anchoPantalla) / 2);
+}
+
 main{
 
-    widht: calc(var(--anchoPantalla) / 2);
     background-color: #fff;
     border-radius: 20px;
 
+}
+
+footer{
+    
 }
 
 .banner{}
