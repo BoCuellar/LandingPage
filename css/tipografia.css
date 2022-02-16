@@ -1,6 +1,23 @@
 /* CSS TYPOGRAFÍA */
 /* **************************************************************** */
 
-@font-face {
+:root {
+
+    --tipoTitulo: ;
+    --tipoParrafo: ;
+
     
+}
+
+
+*, a{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: var(--colorTextoParrafo);
+}
+a{
+    color: var(--colorTextoLinks);
+}
+.banner__boton, .parrafo__boton{
+    color: #ffff;
 }

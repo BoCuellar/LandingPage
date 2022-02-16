@@ -1,2 +1,12 @@
 /* CSS COLOR */
 /* **************************************************************** */
+
+:root{
+    --colorFondo: #ECEDEE;
+    --colorBotonMore: #F96D6F;
+    --colorBotonesSteps: #39466C;
+    --colorTitulos: #031146;
+    --colorTextoParrafo: #031146;
+    --colorLinks: #549CDC;
+}
+
