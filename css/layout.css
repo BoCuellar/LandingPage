@@ -1,5 +1,22 @@
 /* CSS LAYOUT */
 /* **************************************************************** */
 
+:root{
+    --anchoPantalla: 1266px;
+}
 
+.contenedor{
+    background-color: var(--colorFondo);
+}
 
+main{
+
+    widht: calc(var(--anchoPantalla) / 2);
+    background-color: #fff;
+    border-radius: 20px;
+
+}
+
+.banner{}
+.texto{}
+.contacto{}
